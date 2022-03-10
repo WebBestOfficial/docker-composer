@@ -2,7 +2,7 @@
 # Download and build composer
 ###
 
-FROM php:7.3.11-apache-stretch
+FROM php:7.4.28-apache-bullseye
 MAINTAINER Gideon van der Merwe "gideon@webbest.co.za"
 ENV REFRESHED_AT 2022-01-07
 
